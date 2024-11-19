@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -fPIC -shared -Wl,-soname,libSO3Control.so -o /root/rflysim_fuel_ws/devel/lib/libSO3Control.so CMakeFiles/SO3Control.dir/src/SO3Control.cpp.o   -L/root/rflysim_fuel_ws/src/FUEL/uav_simulator/Utils/cmake_utils/lib/mosek8 
